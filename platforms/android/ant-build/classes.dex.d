@@ -1,0 +1,22 @@
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes.dex : \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\BuildConfig.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\CordovaApp.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\Manifest$permission.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\Manifest.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\R$attr.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\R$drawable.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\R$string.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\R$xml.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\com\photonworld\customparsepush\R.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\MyCustomReceiver.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$1.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$2.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$3.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$4.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$5.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$6.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin$7.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\ParsePlugin.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\classes\org\apache\cordova\core\SqliteController.class \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\dexedLibs\classes-cd0435f811d3dac8821cc82ab94b0521.jar \
+E:\CordovaProjects\customparsepush\platforms\android\ant-build\dexedLibs\Parse-1.3.8-79e462f784ad789da3ddc5377615d47f.jar \
