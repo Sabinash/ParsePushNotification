@@ -29,6 +29,10 @@
                         {
                             "xml": "<receiver android:name=\"com.parse.GcmBroadcastReceiver\" android:permission=\"com.google.android.c2dm.permission.SEND\"><intent-filter><action android:name=\"com.google.android.c2dm.intent.RECEIVE\" /><action android:name=\"com.google.android.c2dm.intent.REGISTRATION\" /><category android:name=\"com.photonworld.customparsepush\" /></intent-filter></receiver>",
                             "count": 1
+                        },
+						{
+                            "xml": "<receiver android:name=\"org.apache.cordova.core.MyCustomReceiver\"><intent-filter><action android:name=\"photonworld\" /></intent-filter></receiver>",
+                            "count": 1
                         }
                     ],
                     "/manifest": [
